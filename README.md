@@ -6,7 +6,8 @@ Because of this, you may find bugs and things not written it pythonic way.
 As always the software is provided "as-is", feel free to use it, change it, fork it and distribute it as peases you. Feel free to drop me a line or a pull request.
 
 
-Example 1: Insert a div and append some content later using jQuery
+- Example 1
+Insert a div and append some content later using jQuery
 ```python
 
 htk = HtmlToolkit()
@@ -24,7 +25,8 @@ js.alert('Eureka!')
 
 ```
 
-Example 1: Embed (base64) an image via html
+- Example 2
+Embed (base64) an image via html
 ```python
 
 htk = HtmlToolkit()
